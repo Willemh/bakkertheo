@@ -1,4 +1,4 @@
-## Installation Instructions for concrete5
+ ## Installation Instructions for concrete5
 
 	1.	Make sure your config/ directory is writable by a web server. (Note, this is the config/ directory in the root of the archive).
 	2.	Make sure files/ and its subdirectories are writable by the Apache process (or the world.)
