@@ -34,6 +34,7 @@ __MACOSX
 /web/mail/*
 /web/models/*
 /web/page_types/*
+/web/single_pages/*
 /web/themes/*
 /web/tools/*
 /web/updates/*
@@ -43,6 +44,11 @@ __MACOSX
 
 # ignore the error log and .htaccess and others
 error_log
+INSTALL
+LICENCE.TXT
+index.php
+robots.txt
 .htaccess
 .ftpquota
 /.idea/
+*.wik
